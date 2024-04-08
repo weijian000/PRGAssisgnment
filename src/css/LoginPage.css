@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+
+
+.text-field:hover{
+     -fx-border-color: #427aa1;
+     border-color: #427aa1;
+     -fx-background-color: #ebf2fa;
+     background-color: #ebf2fa;
+}
+
+.text-field:focused{
+    -fx-border-color: #4e4e4e;
+    border-color: #4e4e4e;
+    -fx-background-color: #ebf2fa;
+    background-color: #ebf2fa;
+}
+
+
+
+
